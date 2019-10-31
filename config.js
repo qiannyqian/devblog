@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'A Gander At Gatsby', // Required
+  author: 'qiannyqian', // Required
+  description: 'Front-End Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 3, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    github: 'https://github.com/qiannyqian',
+    twitter: 'https://twitter.com/qiannyqianhere',
+    linkedin: 'https://sg.linkedin.com/in/huiqianliang',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://devblog-11.netlify.com',
 };
